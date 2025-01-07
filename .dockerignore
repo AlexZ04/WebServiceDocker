@@ -1,0 +1,4 @@
+*.md
+.git
+/.idea
+/app/__pycache__
